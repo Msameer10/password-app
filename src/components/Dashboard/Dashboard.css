@@ -1,0 +1,15 @@
+.dashboard {
+  padding: 20px;
+}
+
+.password-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.password-list li {
+  margin: 10px 0;
+  padding: 10px;
+  background: #f1f1f1;
+  border-radius: 5px;
+}
